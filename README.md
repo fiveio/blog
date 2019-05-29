@@ -1,3 +1,31 @@
+# CODEF Tech Blog
+
+## 사용기술
+
+- [Github Pages]() 무료호스팅
+- [Jekyll](https://jekyllrb-ko.github.io/) : 마크다운과 html로 웹페이지 개발, 루비로 만들어짐
+- [Bootstrap](https://getbootstrap.com/docs/4.3/components/buttons/)
+
+## 실행하기
+
+    $ bundle exec jekyll serve --livereload
+ 
+## 브라우저에서 확인
+
+- [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
+
+## 에디터
+
+- [웹스톰](https://www.jetbrains.com/webstorm/)
+
+## 이미지
+
+- [게티이미지](https://rfpro.gettyimageskorea.com/) : 회사 유료 이미지 서비스
+- [unsplash](https://unsplash.com) : 고퀄리티 무료 이미지
+
+## 읽을거리
+- [kakao 기술 블로그가 GitHub Pages로 간 까닭은?](http://tech.kakao.com/2016/07/07/tech-blog-story/)
+
 # minima
 
 *Minima is a one-size-fits-all Jekyll theme for writers*. It's Jekyll's default (and first) theme. It's what you get when you run `jekyll new`.
