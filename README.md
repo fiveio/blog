@@ -2,7 +2,7 @@
 
 ## 사용기술
 
-- [Github Pages]() 무료호스팅
+- [Github Pages](https://pages.github.com/) : 무료호스팅
 - [Jekyll](https://jekyllrb-ko.github.io/) : 마크다운과 html로 웹페이지 개발, 루비로 만들어짐
 - [Bootstrap](https://getbootstrap.com/docs/4.3/components/buttons/)
 
